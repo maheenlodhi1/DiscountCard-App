@@ -4,8 +4,6 @@
 /* eslint-disable eol-last */
 /* eslint-disable semi */
 
-// export const API_URL = "https://kafu-backend-v2.onrender.com/api/v1";
-// export const API_URL = "https://backend.kafucard.com/api/v1";
 export const API_URL =
   "https://discountcard-node-c3e0bxhhbgdqg5g5.ukwest-01.azurewebsites.net/api/v1";
 // export const GOOGLE_MAPS_API_KEY = 'AIzaSyAGtTzCFC5I7fdjV2E3QJTUMggoKSTYOv0';
@@ -52,3 +50,4 @@ export const generateTimeOptions = () => {
   }
   return options;
 };
+
