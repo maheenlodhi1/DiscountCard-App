@@ -1,0 +1,494 @@
+{
+  "login": "تسجيل الدخول",
+  "skip": "تخطي الآن",
+  "welcome": "مرحبًا بكم في بطاقة كافو",
+  "welcome2": "افتح خصومات وحصريات توفيرية عبر الإمارات!",
+  "welcome3": "انضم إلى بطاقة كافو واستمتع بخصومات لا تقبل المنافسة على التسوق، المطاعم، السفر، والترفيه. سواء كنت تبحث عن أفضل العروض أو الأماكن المخفية، نحن نوفرها لك. سجل اليوم وابدأ التوفير على الفور!",
+  "welcome4": "لماذا تختار بطاقة كافو؟",
+  "welcome5": "مع بطاقة كافو، تحصل على آلاف العروض الحصرية من العلامات التجارية الرائدة والشركات. تصفح، استخدم، وتتبع توفيرك بنقرة واحدة. الإنفاق الذكي يبدأ هنا!",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "forgot": "نسيت كلمة المرور",
+  "newAc": "إنشاء حساب جديد",
+  "enter":"يدخل",
+  "loginScreenTitle": "تسجيل الدخول",
+  "termsAgreement": {
+    "part1": "أوافق على",
+    "terms": "الشروط والأحكام",
+    "part2": "بطاقة كافو"
+  },
+  "tabs": {
+    "home": "الرئيسية",
+    "search": "بحث",
+    "history": "السجل",
+    "profile": "الملف"
+  },
+  "conditionsAccepted": "الرجاء قبول الشروط والأحكام!",
+  "loginScreenSubtitle": "سجل الدخول إلى حساب الشريك أو العميل",
+  "emailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+  "passwordPlaceholder": "أدخل كلمة المرور",
+  "tabSelector": {
+    "customer": "كن عميلاً",
+    "partner": "كن شريكاً"
+  },
+  "phonePlaceholder":"أدخل رقم هاتفك",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "loginButton": "تسجيل الدخول",
+  "createAccountText": "إنشاء حساب جديد",
+  "loginSuccess": "تم تسجيل الدخول بنجاح. أهلاً بعودتك!",
+  "loginFailure": "فشل تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+  "emailRequired": "البريد الإلكتروني مطلوب.",
+  "emailInvalid": "الرجاء إدخال عنوان بريد إلكتروني صالح.",
+  "orText": "أو",
+  "enterCodeScreenTitle": "أدخل الرمز المكون من 6 أرقام",
+  "enterCodeScreenSubtitle": "تم إرسال رمز مكون من 6 أرقام إلى",
+  "otpInputPlaceholder": "أدخل رمز OTP",
+  "verifyButton": "تحقق",
+  "didNotReceiveCode": "لم تستلم الرمز؟",
+  "resendCodeText": "إعادة الإرسال",
+  "resendInTimer": "إعادة الإرسال خلال {timer} ثانية",
+  "otpInvalid": "رمز OTP غير صالح. الرجاء إدخال رمز مكون من 6 أرقام.",
+  "otpSentSuccess": "تم إرسال OTP بنجاح",
+  "otpSendFailure": "فشل إرسال OTP",
+  "otpResendSuccess": "تم إرسال OTP جديد بنجاح",
+  "otpResendFailure": "فشل إرسال OTP، يرجى المحاولة مرة أخرى.",
+  "verificationSuccess": "تم التحقق بنجاح. حسابك مفعّل الآن.",
+  "verificationFailure": "فشل التحقق. يرجى المحاولة مرة أخرى.",
+  "emailTitle": "أدخل البريد الإلكتروني",
+  "emailSub": "أدخل بريدك الإلكتروني للحصول على رمز OTP",
+  "emailLbl": "البريد الإلكتروني",
+  "emailPh": "أدخل البريد الإلكتروني",
+  "emailErrReq": "البريد الإلكتروني مطلوب.",
+  "emailErrInv": "بريد إلكتروني غير صالح.",
+  "btnConfirm": "تأكيد",
+  "otpSent": "تم إرسال OTP",
+  "pwdFail": "فشل إعادة تعيين كلمة المرور",
+  "enterNew": "أدخل كلمة مرور جديدة",
+  "setPass": "قم بإعداد كلمة مرور جديدة لحسابك",
+  "passwordLabel": "كلمة المرور",
+  "confirmPasswordLabel": "تأكيد كلمة المرور",
+  "passwordRequired": "كلمة المرور مطلوبة.",
+  "passwordMinLength": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل.",
+  "confirmPasswordRequired": "تأكيد كلمة المرور مطلوب.",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين.",
+  "submitButton": "إرسال",
+  "passwordChangedSuccess": "تم تغيير كلمة المرور بنجاح",
+  "passwordChangedMessage": "تم تغيير كلمة المرور بنجاح.",
+  "passwordNotUpdated": "لم يتم تحديث كلمة المرور",
+  "passwordNotUpdatedMessage": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "goBack": "العودة",
+  "title": "التسجيل",
+  "subtitle": "إنشاء حساب جديد",
+  "firstName": "الاسم الأول",
+  "lastName": "الاسم الأخير",
+  "phoneNo": "رقم الهاتف",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "businessName": "اسم العمل",
+  "businessEmail": "البريد الإلكتروني للعمل",
+  "phoneNoRequired": "رقم الهاتف مطلوب.",
+  "firstNameRequired": "الاسم الأول مطلوب.",
+  "lastNameRequired": "الاسم الأخير مطلوب.",
+  "businessNameRequired": "اسم العمل مطلوب.",
+  "signUpSuccess": "تم التسجيل بنجاح",
+  "signUpSuccessMessage": "الرجاء تفعيل حسابك.",
+  "signUpFailed": "فشل التسجيل",
+  "signUpFailedMessage": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "alreadyMember": "هل أنت عضو بالفعل؟",
+  "signIn": "تسجيل الدخول",
+  "premium": {
+      "title": "كن عضوًا مميزًا!",
+      "subscribeNow": "اشترك الآن",
+      "subscribe": "اشترك",
+      "getStarted": "ابدأ الآن",
+      "paymentProcessing": "يرجى الانتظار أثناء معالجة الدفع",
+      "paymentSuccess": "لقد اشتركت بنجاح في العضوية",
+      "paymentFailed": "لم يتم اكتمال الدفع، يرجى المحاولة مرة أخرى",
+      "cardDetails": "تفاصيل البطاقة",
+      "youArePremium": "أنت عضو مميز!",
+      "subscriptionExpires": "تنتهي الاشتراكات في",
+      "details": "التفاصيل",
+      "benefits": {
+          "discounts": "الوصول إلى خصومات حصرية",
+          "carRentals": "صفقات على تأجير السيارات والمواصلات",
+          "entertainment": "خصومات على تجارب الترفيه",
+          "loyaltyProgram": "برنامج ولاء العضوية لمزايا ومكافآت إضافية"
+      },
+      "promo": {
+          "title": "تطبيق رمز الترويج",
+          "description": "أدخل رمز الترويج الخاص بك أدناه للحصول على خصم.",
+          "placeholder": "أدخل رمز الترويج",
+          "apply": "تطبيق",
+          "applied": "تم التطبيق",
+          "errorEmpty": "الرجاء إدخال رمز الترويج",
+          "invalidCode": "رمز ترويجي غير صالح"
+      },
+      "terms": {
+          "label": "تطبق الشروط والأحكام"
+      },
+      "flipCard": {
+          "showQR": "عرض QR",
+          "showCard": "عرض البطاقة"
+      },
+      "fields": {
+          "name": "الاسم",
+          "email": "البريد الإلكتروني",
+          "cardNumber": "رقم البطاقة",
+          "copy": "نسخ",
+          "copied": "تم نسخ رقم البطاقة!"
+      },
+      "loading": "جاري التحميل...",
+      "noPlans": "لا توجد خطط اشتراك متاحة.",
+      "error": {
+          "general": "حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا.",
+          "payment": "خطأ في الدفع"
+      }
+  },
+  "history": {
+      "loginPrompt": "الرجاء تسجيل الدخول أو إنشاء حساب جديد",
+      "goToLogin": "الذهاب لتسجيل الدخول",
+      "searchPlaceholder": "البحث من السجل",
+      "orderIdPrefix": "#",
+      "categoryLabel": "الفئة",
+      "amountLabel": "درهم",
+      "partnerDetails": "تفاصيل الشريك",
+      "location": "الموقع",
+      "date": "التاريخ",
+      "noResults": "لم يتم العثور على معاملات."
+  },
+  "home": {
+      "greeting": "مرحبًا،",
+      "searchPlaceholder": "ابحث في التطبيق",
+      "promoTextStart": "احصل على خصم يصل إلى",
+      "promoDiscount": "20%",
+      "promoTextEnd": "خصم!",
+      "categories": {
+          "title": "الفئات",
+          "seeAll": "عرض الكل"
+      },
+      "offers": {
+          "title": "عروض حصرية"
+      },
+      "distance": "كم بعيدًا",
+      "reviews": "تقييمات",
+      "rating": "تقييم"
+  },
+  "categoryItem": {
+      "restaurants": "المطاعم والمقاهي",
+      "fashion": "الموضة والملابس",
+      "entertainment": "الترفيه والفعاليات"
+  },
+  "permissions": {
+      "locationDenied": "الرجاء تمكين إذن الموقع من إعدادات التطبيق."
+  },
+  "profile": {
+      "login_prompt": "الرجاء تسجيل الدخول أو إنشاء حساب جديد",
+      "go_to_login": "الذهاب لتسجيل الدخول",
+      "view_profile": "عرض الملف الشخصي",
+      "qr_scans": "مسح QR",
+      "amount_saved": "المبلغ المحفوظ",
+      "general": "عام",
+      "premium_membership": "العضوية المميزة",
+      "invite_friends": "دعوة الأصدقاء",
+      "help_center": "مركز المساعدة",
+      "about_us": "معلومات عنا",
+      "terms_and_policies": "الشروط والسياسات",
+      "delete_account": "حذف الحساب",
+      "delete_account_prompt": "هل أنت متأكد أنك تريد حذف حسابك؟",
+      "cancel": "إلغاء",
+      "yes_delete": "نعم، احذف",
+      "request_submitted": "تم تقديم طلب حذف حسابك.",
+      "logout_success": "تم تسجيل الخروج بنجاح",
+      "logout_failed": "فشل تسجيل الخروج",
+      "logout_button": "تسجيل الخروج"
+  },
+  "search": {
+      "greeting": "مرحبًا،",
+      "search_placeholder": "البحث بالاسم، الموقع، الفئة",
+      "location": "الموقع",
+      "category": "الفئة",
+      "sort": "ترتيب",
+      "no_results": "لم يتم العثور على نتائج",
+      "offers": "العروض"
+  },
+ "offerDetails": {
+    "loginAlert": "يرجى تسجيل الدخول أو إنشاء حساب للوصول إلى هذه الميزة",
+    "reviews": "تقييمات",
+    "info": "معلومات",
+    "offer": "العرض",
+    "discountText": "خصم {{discount}} ٪",
+    "onAllOrders": "على جميع الطلبات",
+    "expiresIn": "تنتهي خلال {{days}} يوم",
+    "scanQR": "انقر لمسح QR",
+    "viewLocation": "عرض الموقع",
+    "_meta": {
+      "description": "ترجمة عربية لشاشة تفاصيل العرض",
+      "last_updated": "2023-11-20",
+      "version": "1.0",
+      "rtl_note": "النصوص متوافقة مع اتجاه الكتابة من اليمين لليسار"
+    }
+  },
+  "homeScreen": {
+      "hi_user": "مرحبًا،",
+      "search_placeholder": "ابحث في التطبيق",
+      "recommended": "موصى به",
+      "distance": "كم بعيدًا",
+      "no_results": "لم يتم العثور على نتائج",
+      "category": "الفئة"
+  },
+  "reviewsScreen": {
+      "header": {
+          "title": "التقييمات والمراجعات",
+          "back_button": "رجوع"
+      },
+      "average_rating": {
+          "rating": "متوسط التقييم",
+          "total_reviews": "من أصل {count} تقييم"
+      },
+      "rating_breakdown": {
+          "title": "توزيع التقييم",
+          "stars": "النجوم",
+          "percentage": "النسبة المئوية"
+      },
+      "filter_buttons": {
+          "highest_rated": "الأعلى تقييمًا",
+          "lowest_rated": "الأقل تقييمًا",
+          "newest": "الأحدث",
+          "oldest": "الأقدم"
+      },
+      "no_reviews": "لا توجد مراجعات بعد",
+      "add_review_button": "أضف مراجعة",
+      "review_modal": {
+          "title": "أعط تقييمًا",
+          "star_rating": "قيم العرض",
+          "review_details": "تفاصيل المراجعة",
+          "placeholder": "اكتب مراجعتك...",
+          "submit_button": "إرسال",
+          "submitting": "جاري الإرسال...",
+          "success": "تم إرسال المراجعة بنجاح",
+          "failure": "فشل إرسال المراجعة، يرجى المحاولة مرة أخرى"
+      },
+      "review_item": {
+          "customer_name": "العميل",
+          "rating": "التقييم",
+          "date": "تاريخ المراجعة",
+          "comment": "تعليق"
+      },
+      "authentication": {
+          "login_prompt": "الرجاء تسجيل الدخول أو إنشاء حساب لترك مراجعة"
+      },
+      "error": {
+          "loading_reviews": "فشل تحميل المراجعات"
+      }
+  },
+  "partnerHome": {
+      "header": {
+          "greeting": "مرحبًا، {firstName}",
+          "open_now": "مفتوح الآن",
+          "notification": "الإشعارات"
+      },
+      "overview": {
+          "title": "نظرة عامة"
+      },
+      "period_selection": {
+          "today": "اليوم",
+          "7_days": "7 أيام",
+          "30_days": "30 يومًا",
+          "90_days": "90 يومًا"
+      },
+      "loading": {
+          "loading_data": "جاري تحميل البيانات..."
+      },
+      "stats": {
+          "visitors": "الزوار",
+          "qr_scans": "مسح QR"
+      },
+      "revenue": {
+          "revenue": "الإيرادات",
+          "currency": "درهم",
+          "percentage_change": "-10%"
+      },
+      "graph": {
+          "title": "الرسم البياني",
+          "no_data": "لا توجد بيانات متاحة"
+      },
+      "error": {
+          "loading_data": "فشل تحميل البيانات"
+      }
+  },
+  "partnerProfile": {
+      "loginPrompt": {
+          "title": "الرجاء تسجيل الدخول أو إنشاء حساب جديد",
+          "button": "الذهاب لتسجيل الدخول"
+      },
+      "profileSection": {
+          "viewProfile": "عرض الملف الشخصي"
+      },
+      "general": {
+          "title": "عام",
+          "language": "اللغة",
+          "helpCenter": "مركز المساعدة",
+          "aboutUs": "معلومات عنا",
+          "termsAndPolicies": "الشروط والسياسات",
+          "deleteAccount": "حذف الحساب"
+      },
+      "deleteAccountConfirmation": {
+          "title": "حذف الحساب",
+          "message": "هل أنت متأكد أنك تريد حذف حسابك؟",
+          "cancel": "إلغاء",
+          "yesDelete": "نعم، احذف"
+      },
+      "logout": {
+          "button": "تسجيل الخروج"
+      },
+      "alerts": {
+          "logoutSuccess": "تم تسجيل الخروج بنجاح",
+          "logoutFailure": "فشل تسجيل الخروج",
+          "accountDeletionRequest": "تم تقديم طلب حذف حسابك."
+      }
+  },
+  "qrScannerScreen": {
+      "noActiveOffer": {
+          "message": "ليس لديك أي عرض نشط لتقديم الخصومات"
+      },
+      "scanQRCode": {
+          "message": "مسح QR / الباركود"
+      },
+      "enterMembershipID": {
+          "label": "أدخل رقم العضوية",
+          "placeholder": "أدخل الرقم"
+      },
+      "verifyButton": {
+          "label": "تحقق"
+      },
+      "alerts": {
+          "verificationSuccess": "نجاح",
+          "verificationError": "خطأ"
+      }
+  },
+  "partnerEditProfile": {
+      "profileDetails": {
+          "title": "تفاصيل الملف الشخصي",
+          "description": "عنوان صفحة الملف الشخصي حيث يمكن للمستخدم عرض وتحديث تفاصيله."
+      },
+      "businessName": {
+          "label": "اسم العمل",
+          "description": "تسمية حقل اسم العمل في الملف الشخصي."
+      },
+      "businessEmail": {
+          "label": "البريد الإلكتروني للعمل",
+          "description": "تسمية حقل البريد الإلكتروني للعمل في الملف الشخصي."
+      },
+      "name": {
+          "label": "الاسم",
+          "description": "تسمية حقل الاسم، حيث يتم عرض الاسم الأول والأخير للمستخدم."
+      },
+      "password": {
+          "label": "كلمة المرور",
+          "description": "تسمية حقل كلمة المرور. يتم إخفاء كلمة المرور الحالية للخصوصية."
+      },
+      "phone": {
+          "label": "رقم الهاتف",
+          "description": "تسمية حقل رقم الهاتف في الملف الشخصي."
+      },
+      "state": {
+          "label": "الحالة",
+          "description": "تسمية حقل الحالة في الملف الشخصي."
+      },
+      "nationality": {
+          "label": "الجنسية",
+          "description": "تسمية حقل الجنسية في الملف الشخصي."
+      },
+      "editName": {
+          "title": "تعديل الاسم",
+          "description": "عنوان النافذة المنبثقة عند تعديل اسم المستخدم."
+      },
+      "editPassword": {
+          "title": "تعديل كلمة المرور",
+          "description": "عنوان النافذة المنبثقة عند تعديل كلمة مرور المستخدم."
+      },
+      "editPhone": {
+          "title": "تعديل الهاتف",
+          "description": "عنوان النافذة المنبثقة عند تعديل رقم هاتف المستخدم."
+      },
+      "editState": {
+          "title": "تعديل الحالة",
+          "description": "عنوان النافذة المنبثقة عند تعديل حالة المستخدم."
+      },
+      "editNationality": {
+          "title": "تعديل الجنسية",
+          "description": "عنوان النافذة المنبثقة عند تعديل جنسية المستخدم."
+      },
+      "editProfilePicture": {
+          "label": "تعديل صورة الملف الشخصي",
+          "description": "تسمية الزر لتعديل صورة الملف الشخصي للمستخدم."
+      },
+      "updateSuccess": {
+          "title": "نجاح",
+          "message": "تم تحديث الملف الشخصي بنجاح!",
+          "description": "الرسالة التي تظهر عند تحديث الملف الشخصي بنجاح."
+      },
+      "updateError": {
+          "title": "خطأ",
+          "message": "فشل تحديث الملف الشخصي.",
+          "description": "الرسالة التي تظهر عند حدوث خطأ في تحديث الملف الشخصي."
+      },
+      "passwordValidationError": {
+          "message": "يجب أن تحتوي كلمة المرور على أحرف كبيرة وصغيرة وأرقام وحرف خاص.",
+          "description": "رسالة الخطأ عند إدخال تنسيق كلمة مرور غير صالح."
+      },
+      "phoneValidationError": {
+          "message": "أدخل رقم هاتف صالح.",
+          "description": "رسالة الخطأ عند إدخال رقم هاتف غير صالح."
+      },
+      "fieldRequired": {
+          "message": "هذا الحقل مطلوب.",
+          "description": "رسالة الخطأ العامة عند ترك حقل مطلوب فارغًا."
+      },
+      "permissionRequired": {
+          "title": "الإذن مطلوب",
+          "message": "الرجاء السماح بالوصول إلى الصور الخاصة بك.",
+          "description": "الرسالة التي تظهر عند رفض إذن الوصول إلى الوسائط."
+      },
+      "saveButton": {
+          "title": "حفظ",
+          "description": "نص زر الحفظ في النافذة المنبثقة عند تحديث معلومات الملف الشخصي."
+      },
+      "loadingSaveButton": {
+          "title": "جاري الحفظ...",
+          "description": "النص الذي يظهر على زر الحفظ عند حفظ الملف الشخصي."
+      },
+      "cancelButton": {
+          "title": "إلغاء",
+          "description": "نص زر الإلغاء في النافذة المنبثقة لإغلاقها."
+      },
+      "firstName": {
+          "label": "الاسم الأول",
+          "description": "تسمية حقل الاسم الأول في نافذة تعديل الملف الشخصي."
+      },
+      "lastName": {
+          "label": "الاسم الأخير",
+          "description": "تسمية حقل الاسم الأخير في نافذة تعديل الملف الشخصي."
+      },
+      "currentPassword": {
+          "label": "كلمة المرور الحالية",
+          "description": "تسمية حقل كلمة المرور الحالية عند تعديل كلمة المرور."
+      },
+      "newPassword": {
+          "label": "كلمة المرور الجديدة",
+          "description": "تسمية حقل كلمة المرور الجديدة عند تعديل كلمة المرور."
+      },
+      "statePlaceholder": {
+          "message": "اختر الحالة",
+          "description": "نص العنصر النائب عند اختيار المستخدم للحالة."
+      },
+      "nationalityPlaceholder": {
+          "message": "اختر الجنسية",
+          "description": "نص العنصر النائب عند اختيار المستخدم للجنسية."
+      },
+      "imageUploadError": {
+          "title": "خطأ",
+          "message": "فشل تحميل الصورة.",
+          "description": "الرسالة التي تظهر عند فشل تحميل الصورة."
+      }
+  }
+}

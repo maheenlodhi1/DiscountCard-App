@@ -1,0 +1,508 @@
+{
+    "login": "Login",
+    "skip": "Skip for now",
+    "welcome":"Welcome to DiscountCard",
+    "welcome2":"Unlock Exclusive Discounts & Savings Across the UK!",
+   "welcome3": "Join DiscountCard and enjoy unbeatable discounts on shopping, dining, travel, and entertainment. Whether you're looking for top deals or hidden gems, we’ve got you covered. Sign up today and start saving instantly!",
+    "welcome4":"Why Choose DiscountCard?",
+    "welcome5":"With DiscountCard, you get access to thousands of exclusive offers from leading brands and businesses. Easily browse, redeem, and track your savings with just a tap. Smart spending starts here!",
+    "email":"Email",
+    "password":"Password",
+    "forgot":"Forgot Password",
+    "newAc":"Create New Account",
+    "loginScreenTitle": "Login",
+    "enter":"Enter",
+  "loginScreenSubtitle": "Login to your Partner or Customer account",
+  "emailPlaceholder": "Enter your email address",
+  "passwordPlaceholder": "Enter your password",
+  "forgotPassword": "Forgot Password?",
+  "loginButton": "Login",
+  "phonePlaceholder":"Enter your phone number",
+  "createAccountText": "Create a New Account",
+  "loginSuccess": "Login Successful. Welcome back!",
+  "loginFailure": "Login Failed. Please try again.",
+  "emailRequired": "Email is required.",
+  "emailInvalid": "Please enter a valid email address.",
+  "orText": "Or",
+  "termsAgreement": {
+    "part1": "I agree to the",
+    "terms": "Terms & Conditions",
+    "part2": "of DiscountCard"
+  },
+  "conditionsAccepted": "Please accept the Terms & Conditions!",
+  "enterCodeScreenTitle": "Enter 6-Digit Code",
+  "tabSelector": {
+    "customer": "Become a Customer",
+    "partner": "Become a Partner"
+  },
+  "enterCodeScreenSubtitle": "A 6-digit code has been sent to.",
+  "otpInputPlaceholder": "Enter OTP digit",
+  "verifyButton": "Verify",
+  "didNotReceiveCode": "Didn’t receive code?",
+  "resendCodeText": "Send again",
+  "resendInTimer": "Resend in",
+  "otpInvalid": "Invalid OTP. Please enter a valid 6-digit code.",
+  "otpSentSuccess": "OTP Sent Successfully",
+  "otpSendFailure": "OTP Send Failed",
+  "otpResendSuccess": "New OTP sent successfully",
+  "otpResendFailure": "Failed to send OTP, please try again.",
+  "verificationSuccess": "Verification Successful. Your account is now verified.",
+  "verificationFailure": "Verification Failed. Please try again.",
+  "emailTitle": "Enter Email",
+  "emailSub": "Enter your email to get OTP code",
+  "emailLbl": "Email",
+  "emailPh": "Enter Email",
+  "emailErrReq": "Email is required.",
+  "emailErrInv": "Invalid email.",
+  "btnConfirm": "Confirm",
+  "otpSent": "OTP Sent",
+  "pwdFail": "Password reset failed",
+  "enterNew": "Enter New Password",
+  "setPass": "Set up a new password for your account",
+  "passwordLabel": "Password",
+  "confirmPasswordLabel": "Confirm Password",
+  "passwordRequired": "Password is required.",
+  "passwordMinLength": "Password must be at least 8 characters.",
+  "confirmPasswordRequired": "Confirm Password is required.",
+  "passwordsDoNotMatch": "Passwords do not match.",
+  "submitButton": "Submit",
+  "passwordChangedSuccess": "Password Changed Successfully",
+  "passwordChangedMessage": "Your password has been changed successfully.",
+  "passwordNotUpdated": "Password Not Updated",
+  "passwordNotUpdatedMessage": "Something went wrong. Please try again.",
+  "goBack": "Go Back",
+"title": "Sign Up",
+  "subtitle": "Create a new account",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phoneNo": "Phone Number",
+  "confirmPassword": "Confirm Password",
+  "businessName": "Business Name",
+  "businessEmail": "Business Email",
+  "phoneNoRequired": "Phone number is required.",
+  "firstNameRequired": "First name is required.",
+  "lastNameRequired": "Last name is required.",
+  "businessNameRequired": "Business Name is required.",
+  "signUpSuccess": "Sign Up Successful",
+  "signUpSuccessMessage": "Please verify your account.",
+  "signUpFailed": "Sign Up Failed",
+  "signUpFailedMessage": "Something went wrong. Please try again.",
+  "alreadyMember": "Already a Member?",
+  "signIn": "Sign In",
+  "tabs": {
+    "home": "Home",
+    "search": "Search",
+    "history": "History",
+    "profile": "Profile"
+  },
+"premium": {
+    "title": "Become a Premium Member!",
+    "subscribeNow": "Subscribe Now",
+    "subscribe": "Subscribe",
+    "getStarted": "Get Started",
+    "paymentProcessing": "Please wait while payment is processing",
+    "paymentSuccess": "You have successfully subscribed the membership",
+    "paymentFailed": "Payment could not be completed, please try again",
+    "cardDetails": "Card Details",
+    "youArePremium": "You are a Premium Member!",
+    "subscriptionExpires": "Subscription expires on",
+    "details": "Details",
+
+    "benefits": {
+      "discounts": "Access to exclusive discounts",
+      "carRentals": "Deals on car rentals & transportation",
+      "entertainment": "Discounts on entertainment experiences",
+      "loyaltyProgram": "Membership Loyalty program for additional benefits and rewards"
+    },
+
+    "promo": {
+      "title": "Apply Promo Code",
+      "description": "Enter your promo code below to receive a discount.",
+      "placeholder": "Enter Promo Code",
+      "apply": "Apply",
+      "applied": "Applied",
+      "errorEmpty": "Please enter promo code",
+      "invalidCode": "Invalid promo code"
+    },
+
+    "terms": {
+      "label": "Terms & Conditions applied"
+    },
+
+    "flipCard": {
+      "showQR": "Show QR",
+      "showCard": "Show Card"
+    },
+
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "cardNumber": "Card Number",
+      "copy": "Copy",
+      "copied": "Card Number Copied!"
+    },
+
+    "loading": "Loading...",
+    "noPlans": "No subscription plans available.",
+
+    "error": {
+      "general": "Something went wrong. Please try again later.",
+      "payment": "Payment Error"
+    }
+  },
+
+  "history": {
+    "loginPrompt": "Please login or create a new account",
+    "goToLogin": "Go to Login",
+    "searchPlaceholder": "Search from the History",
+    "orderIdPrefix": "#",
+    "categoryLabel": "Category",
+    "amountLabel": "GBP",
+    "partnerDetails": "Partner Details",
+    "location": "Location",
+    "date": "Date",
+    "noResults": "No transactions found."
+  },
+  
+"home": {
+    "greeting": "Hi,",
+    "searchPlaceholder": "Search from the app",
+    "promoTextStart": "Avail Upto",
+    "promoDiscount": "20%",
+    "promoTextEnd": "Discount!",
+    "categories": {
+      "title": "Categories",
+      "seeAll": "See All"
+    },
+    "offers": {
+      "title": "Exclusive Offers"
+    },
+    "distance": " km away",
+    "reviews": " reviews",
+    "rating": " rating"
+  },
+  "categoryItem": {
+    "restaurants": "Restaurants and Cafe's",
+    "fashion": "Fashion and Apparel",
+    "entertainment": "Entertainment & Events"
+  },
+  "permissions": {
+    "locationDenied": "Please enable location permission from app settings."
+  },
+
+  "profile": {
+    "login_prompt": "Please login or create a new account",
+    "go_to_login": "Go to Login",
+    "view_profile": "View Profile",
+    "qr_scans": "QR Scans",
+    "amount_saved": "Amount Saved",
+    "general": "General",
+    "premium_membership": "Premium Membership",
+    "invite_friends": "Invite Friends",
+    "help_center": "Help Center",
+    "about_us": "About Us",
+    "terms_and_policies": "Terms & Policies",
+    "delete_account": "Delete Account",
+    "delete_account_prompt": "Are you sure you want to delete your account?",
+    "cancel": "Cancel",
+    "yes_delete": "Yes, Delete",
+    "request_submitted": "Your account deletion request has been submitted.",
+    "logout_success": "Logout Successful",
+    "logout_failed": "Logout Failed",
+    "logout_button": "Logout"
+  },
+  "search": {
+    "greeting": "Hi,",
+    "search_placeholder": "Search By Name, Location, Category",
+    "location": "Location",
+    "category": "Category",
+    "sort": "Sort",
+    "no_results": "No results found",
+    "offers": "Offers"
+  },
+  "offerDetails": {
+    "loginAlert": "Please login or create an account to access this feature",
+    "reviews": "reviews",
+    "info": "Info",
+    "offer": "Offer",
+    "discountText": "Flat {{discount}} Off",
+    "onAllOrders": "On all orders",
+    "expiresIn": "Expires in {{days}} days",
+    "scanQR": "Click to Scan QR",
+    "viewLocation": "View Location",
+    "_meta": {
+      "description": "English translations for Offer Details screen",
+      "last_updated": "2023-11-20",
+      "version": "1.0"
+    }
+  },
+  "homeScreen": {
+    "hi_user": "Hi,",
+    "search_placeholder": "Search from the app",
+    "recommended": "RECOMMENDED",
+    "distance": "km away",
+    "no_results": "No results found",
+    "category": "Category"
+  },
+  "reviewsScreen": {
+    "header": {
+      "title": "Reviews and Ratings",
+      "back_button": "Back"
+    },
+    "average_rating": {
+      "rating": "Average Rating",
+      "total_reviews": "out of {count} reviews"
+    },
+    "rating_breakdown": {
+      "title": "Rating Distribution",
+      "stars": "Stars",
+      "percentage": "Percentage"
+    },
+    "filter_buttons": {
+      "highest_rated": "Highest Rated",
+      "lowest_rated": "Lowest Rated",
+      "newest": "Newest",
+      "oldest": "Oldest"
+    },
+    "no_reviews": "No reviews yet",
+    "add_review_button": "Add a Review",
+    "review_modal": {
+      "title": "Give a Review",
+      "star_rating": "Rate the promotion",
+      "review_details": "Review Details",
+      "placeholder": "Write your review...",
+      "submit_button": "Submit",
+      "submitting": "Submitting...",
+      "success": "Review submitted successfully",
+      "failure": "Failed to submit review, please try again"
+    },
+    "review_item": {
+      "customer_name": "Customer",
+      "rating": "Rating",
+      "date": "Review Date",
+      "comment": "Comment"
+    },
+    "authentication": {
+      "login_prompt": "Please login or create an account to leave a review"
+    },
+    "error": {
+      "loading_reviews": "Failed to load reviews"
+    }
+  },
+  "partnerHome": {
+    "header": {
+      "greeting": "Hi, {firstName}",
+      "open_now": "Open Now",
+      "notification": "Notifications"
+    },
+    "overview": {
+      "title": "Overview"
+    },
+    "period_selection": {
+      "today": "Today",
+      "7_days": "7 days",
+      "30_days": "30 days",
+      "90_days": "90 days"
+    },
+    "loading": {
+      "loading_data": "Loading data..."
+    },
+    "stats": {
+      "visitors": "Visitors",
+      "qr_scans": "QR Scans"
+    },
+    "revenue": {
+      "revenue": "Revenue",
+      "currency": "GBP",
+      "percentage_change": "-10%"
+    },
+    "graph": {
+      "title": "Graph",
+      "no_data": "No data available"
+    },
+    "error": {
+      "loading_data": "Failed to load data"
+    }
+  },
+  "partnerProfile": {
+    "loginPrompt": {
+      "title": "Please login or create a new account",
+      "button": "Go to Login"
+    },
+    "profileSection": {
+      "viewProfile": "View Profile"
+    },
+    "general": {
+      "title": "General",
+      "language": "Language",
+      "helpCenter": "Help Center",
+      "aboutUs": "About Us",
+      "termsAndPolicies": "Terms & Policies",
+      "deleteAccount": "Delete Account"
+    },
+    "deleteAccountConfirmation": {
+      "title": "Delete Account",
+      "message": "Are you sure you want to delete your account?",
+      "cancel": "Cancel",
+      "yesDelete": "Yes, Delete"
+    },
+    "logout": {
+      "button": "Logout"
+    },
+    "alerts": {
+      "logoutSuccess": "Logout Successful",
+      "logoutFailure": "Logout Failed",
+      "accountDeletionRequest": "Your account deletion request has been submitted."
+    }
+  },
+  "qrScannerScreen": {
+    "noActiveOffer": {
+      "message": "You haven't any active offer to provide discounts"
+    },
+    "scanQRCode": {
+      "message": "Scan QR / Barcode"
+    },
+    "enterMembershipID": {
+      "label": "Enter Membership ID",
+      "placeholder": "Enter ID"
+    },
+    "verifyButton": {
+      "label": "Verify"
+    },
+    "alerts": {
+      "verificationSuccess": "Success",
+      "verificationError": "Error"
+    }
+  },
+
+  "partnerEditProfile":{
+    
+      "profileDetails": {
+        "title": "Profile Details",
+        "description": "The title of the profile page where the user can view and update their details."
+      },
+      "businessName": {
+        "label": "Business Name",
+        "description": "The label for the business name field in the profile."
+      },
+      "businessEmail": {
+        "label": "Business Email",
+        "description": "The label for the business email field in the profile."
+      },
+      "name": {
+        "label": "Name",
+        "description": "The label for the name field, where the user's first and last name are displayed."
+      },
+      "password": {
+        "label": "Password",
+        "description": "The label for the password field. The current password is hidden for privacy."
+      },
+      "phone": {
+        "label": "Phone No.",
+        "description": "The label for the phone number field in the profile."
+      },
+      "state": {
+        "label": "State",
+        "description": "The label for the state field in the profile."
+      },
+      "nationality": {
+        "label": "Nationality",
+        "description": "The label for the nationality field in the profile."
+      },
+      "editName": {
+        "title": "Edit Name",
+        "description": "The title of the bottom sheet when editing the user's name."
+      },
+      "editPassword": {
+        "title": "Edit Password",
+        "description": "The title of the bottom sheet when editing the user's password."
+      },
+      "editPhone": {
+        "title": "Edit Phone",
+        "description": "The title of the bottom sheet when editing the user's phone number."
+      },
+      "editState": {
+        "title": "Edit State",
+        "description": "The title of the bottom sheet when editing the user's state."
+      },
+      "editNationality": {
+        "title": "Edit Nationality",
+        "description": "The title of the bottom sheet when editing the user's nationality."
+      },
+      "editProfilePicture": {
+        "label": "Edit Profile Picture",
+        "description": "The label for the button to edit the user's profile picture."
+      },
+      "updateSuccess": {
+        "title": "Success",
+        "message": "Profile updated successfully!",
+        "description": "Message shown when the profile is successfully updated."
+      },
+      "updateError": {
+        "title": "Error",
+        "message": "Failed to update profile.",
+        "description": "Message shown when there is an error updating the profile."
+      },
+      "passwordValidationError": {
+        "message": "Password must contain uppercase, lowercase, number, and special character.",
+        "description": "Error message when the user enters an invalid password format."
+      },
+      "phoneValidationError": {
+        "message": "Enter a valid phone number.",
+        "description": "Error message when the user enters an invalid phone number."
+      },
+      "fieldRequired": {
+        "message": "This field is required.",
+        "description": "Generic error message when a required field is left empty."
+      },
+      "permissionRequired": {
+        "title": "Permission required",
+        "message": "Please allow access to your photos.",
+        "description": "Message shown when permission to access media is denied."
+      },
+      "saveButton": {
+        "title": "Save",
+        "description": "The text for the save button in the edit modal when updating profile information."
+      },
+      "loadingSaveButton": {
+        "title": "Saving...",
+        "description": "The text shown on the save button when the profile is being saved."
+      },
+      "cancelButton": {
+        "title": "Cancel",
+        "description": "The text for the cancel button in the edit modal to close the bottom sheet."
+      },
+      "firstName": {
+        "label": "First Name",
+        "description": "The label for the first name input field in the profile edit modal."
+      },
+      "lastName": {
+        "label": "Last Name",
+        "description": "The label for the last name input field in the profile edit modal."
+      },
+      "currentPassword": {
+        "label": "Current Password",
+        "description": "The label for the current password input field when editing the password."
+      },
+      "newPassword": {
+        "label": "New Password",
+        "description": "The label for the new password input field when editing the password."
+      },
+      "statePlaceholder": {
+        "message": "Select State",
+        "description": "Placeholder text when the user is selecting a state."
+      },
+      "nationalityPlaceholder": {
+        "message": "Select Nationality",
+        "description": "Placeholder text when the user is selecting a nationality."
+      },
+      "imageUploadError": {
+        "title": "Error",
+        "message": "Failed to upload image.",
+        "description": "Message shown when image upload fails."
+      }
+    
+  }
+
+}
+  
